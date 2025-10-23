@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Restorer",
+  "description": "Upload single or bulk old photographs to restore them using AI. Remove scratches, enhance colors, and apply custom edits to bring your memories back to life with a side-by-side comparison and high-resolution download options.",
+  "requestFramePermissions": []
+}
